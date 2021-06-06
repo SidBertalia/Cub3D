@@ -1,2 +1,3 @@
-# Cub3D
-[![sbertali's 42Project Score](https://badge42.herokuapp.com/api/project/sbertali/cub3d)](https://github.com/SidBertalia/badge42)
+<p align="center"><img src="https://github.com/SidBertalia/SidBertalia/blob/main/srcs/cub3de.png" /></p>
+
+# Cub3D <img src="https://badge42.herokuapp.com/api/project/sbertali/cub3d" align=right>
